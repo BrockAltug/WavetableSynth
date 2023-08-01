@@ -30,7 +30,7 @@ void WavetableSynthAudioProcessorEditor::paint (juce::Graphics& g)
 
     g.setColour (juce::Colours::white);
     g.setFont (15.0f);
-    g.drawFittedText ("Hello World!", getLocalBounds(), juce::Justification::centred, 1);
+    g.drawFittedText ("maisounds Wavetable Synth", getLocalBounds(), juce::Justification::centred, 1);
 }
 
 void WavetableSynthAudioProcessorEditor::resized()
