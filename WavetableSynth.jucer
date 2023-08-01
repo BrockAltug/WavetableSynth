@@ -3,7 +3,7 @@
 <JUCERPROJECT id="Hh0ObL" name="WavetableSynth" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
               companyName="MaiSounds" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginFormats="buildVST3">
+              pluginFormats="buildStandalone,buildVST3">
   <MAINGROUP id="rsDU14" name="WavetableSynth">
     <GROUP id="{D2043174-64AC-FC6A-6205-BA1A4E1B48B3}" name="Source">
       <FILE id="c8GPgU" name="PluginProcessor.cpp" compile="1" resource="0"
